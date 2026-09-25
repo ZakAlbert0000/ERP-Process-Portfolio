@@ -1,6 +1,18 @@
 # BPMNProcess
 Mapowanie procesów biznesowych i logistycznych w systemie ERP
 
+## Słownik skrótów
+
+| Skrót | Nazwa | Znaczenie w procesie |
+|-------|-------|----------------------|
+| PZ  | Przyjęcie zewnętrzne | Dokument przyjęcia towaru od dostawcy na stan |
+| PZU | Przyjęcie zewnętrzne unijne | Dokument przyjęcia towaru od dostawcy z innego kraju UE na stan |
+| SPS | Specyfikacja sprzedaży | Dokument, na podstawie którego magazynier kompletuje zamówienie |
+| ZPK | Zapytanie do Działu Zakupów | Prośba handlowca o cenę/dostępność towaru u dostawcy |
+| OFD | Oferta od dostawcy | Odpowiedź dostawcy na zapytanie zakupowe |
+| OFK | Oferta dla klienta | Oferta wygenerowana w ERP |
+| ZMK | Zamówienie klienta | Dokument powstały z przekształcenia zaakceptowanej OFK |
+
 ---
 
 ## 1. Przyjęcie towaru na magazyn i obsługa niezgodności
