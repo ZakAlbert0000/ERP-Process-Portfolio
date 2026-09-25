@@ -26,4 +26,4 @@ Konfiguracja procesu zakupowo-magazynowego w systemie **Odoo ERP** z uwzględnie
 * **System ERP:**
 * **Forma prezentacji:**
 * **Znajomość domenowa:**
-* **Pliki źródłowe:** [Księgowość Magazynowa](https://www.360ksiegowosc.pl/wp-content/uploads/2021/08/Magazyn-Pelna-Ksiegowosc_2021.pdf)
+* **Pliki źródłowe:**
