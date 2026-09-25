@@ -11,9 +11,15 @@ Na co dzień pracuję w systemie ERP ADAPTIX i szkolę z niego nowych pracownik�
 
 ## Projekty
 
-| Projekt | Opis |
-|-------------|------|
-| [Procesy BPMN](./BPMNProcess-Przyj%C4%99cie-Wydanie-Ofertyzacja) | Przyjęcie towaru z obsługą niezgodności, wydanie z magazynu, ofertyzacja B2B. Modele BPMN 2.0 ze ścieżkami wyjątków. |
+### Procesy magazynowe i sprzedażowe w BPMN 2.0
+
+Trzy procesy z codziennej pracy w firmie handlowo-produkcyjnej, zamodelowane ze ścieżkami wyjątków:
+
+- **Przyjęcie towaru**: weryfikacja dostawy, obsługa niezgodności nazwowych, ilościowych i jakościowych, reklamacja do dostawcy
+- **Wydanie z magazynu**: kompletacja, kontrola zgodności, korekta błędów i wstrzymanie wydania w ERP
+- **Ofertyzacja B2B**: od zapytania klienta, przez zapytanie do zakupów i ofertę dostawcy, po zamówienie klienta lub archiwizację
+
+**[Zobacz szczegóły i wszystkie diagramy →](./BPMNProcess-Przyj%C4%99cie-Wydanie-Ofertyzacja)**
 
 ## Kompetencje
 
