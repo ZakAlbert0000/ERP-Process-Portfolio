@@ -48,8 +48,8 @@ Proces realizowany od momentu weryfikacji zamówienia przez handlowca, przez eta
 Diagram BPMN przedstawia proces przygotowania oferty przez handlowca dla klienta B2B od momentu zapytania (mail/telefon) do finalizacji - Zamówienie klienta (ZMK) lub przekazaniu do archiwum po przedawnieniu.
 
 **Co tutaj uwzględniłem:**
-* Dwa niezależne warunki: istnienie kartoteki towarowej i znajomość stanu magazynowego — brak kartoteki oznacza automatycznie brak stanu magazynowego.
-* Ścieżkę przyspieszoną (towar na stanie -> oferta od razu) oraz pełną (ZPK -> OFD -> OFK, z tworzeniem kartoteki tymczasowej dla nowego towaru).
+* Dwa kolejne warunki: istnienie kartoteki towarowej oraz znajomość stanu magazynowego. Jeśli towar nie ma kartoteki, handlowiec najpierw zakłada kartotekę tymczasową, a następnie sprawdza, czy zna stan towaru.
+* Ścieżkę przyspieszoną (stan znany -> oferta od razu) oraz pełną (ZPK -> OFD -> OFK), gdy stan lub dostępność trzeba potwierdzić w Dziale Zakupów.
 * Dwa zakończenia procesu: zamówienie klienta (ZMK) albo archiwizacja po przedawnieniu oferty.
 
 ![Proces Ofertyzacji](assets/Proces_Ofertyzacji.png)
