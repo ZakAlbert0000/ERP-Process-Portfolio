@@ -23,7 +23,7 @@ Trzy procesy z codziennej pracy w firmie handlowo-produkcyjnej, zamodelowane ze 
 
 ## Kompetencje
 
-- **Systemy:** ERP ADAPTIX, Odoo
+- **Systemy:** ERP ADAPTIX,
 - **Modelowanie procesów:** BPMN 2.0, Draw.io
 - **Dane:** SQL (SELECT, JOIN)
 - **Obszary biznesowe:** gospodarka magazynowa, sprzedaż B2B i e-commerce, zakupy, ofertyzacja, fakturowanie, korekty i reklamacje, wysyłki eksportowe (UE)
