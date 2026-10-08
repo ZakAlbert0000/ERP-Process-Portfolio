@@ -4,10 +4,11 @@ Mapowanie procesów biznesowych i logistycznych w systemach ERP.
 
 ## O mnie
 
-Od 5 lat pracuję w firmie handlowo-produkcyjnej, gdzie przeszedłem przez magazyn (przyjęcie, wydanie, pakowanie, wysoki skład), produkcję, dział fakturowania i korekt oraz sprzedaż B2B. Obecnie jako Młodszy Specjalista ds. Handlu i Logistyki obsługuję klientów B2B, prowadzę ofertyzację i dwa sklepy internetowe.
-Na co dzień pracuję w systemie ERP ADAPTIX i szkolę z niego nowych pracowników z zakresu handlu, zakupów, gospodarki magazynowej i ofertyzacji. Znam cały przepływ od zapytania klienta do zamówienia u dostawcy.
+Od 5 lat pracuję w firmie handlowo-produkcyjnej i przeszedłem przez cały jej łańcuch: magazyn (przyjęcia, wydania, pakowanie, wysoki skład), produkcję, fakturowanie i korekty, a obecnie sprzedaż B2B. Jako Młodszy Specjalista ds. Handlu i Logistyki obsługuję klientów B2B, prowadzę ofertyzację i dwa sklepy internetowe.
 
-**Cel zawodowy:** rozwój w obszarze wdrożeń systemów ERP i analizy biznesowej.
+Jestem wewnętrznym trenerem systemu **ERP ADAPTIX**: szkolę każdego nowego pracownika z handlu, zakupów, gospodarki magazynowej i ofertyzacji. Znam z praktyki pełny przepływ procesów, od zapytania klienta, przez ofertę, magazyn i fakturę.
+
+**Cel zawodowy:** wdrożenia systemów ERP, pre-sales i sprzedaż rozwiązań ERP dla firm produkcyjnych i dystrybucyjnych.
 
 ## Projekty
 
