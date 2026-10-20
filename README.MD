@@ -20,7 +20,7 @@ Trzy procesy z codziennej pracy w firmie handlowo-produkcyjnej, zamodelowane ze 
 - **Wydanie z magazynu**: kompletacja, kontrola zgodności, korekta błędów i wstrzymanie wydania w ERP
 - **Ofertyzacja B2B**: od zapytania klienta, przez zapytanie do zakupów i ofertę dostawcy, po zamówienie klienta lub archiwizację
 
-![Proces ofertyzacji B2B](BPMNProcess-Przyjęcie-Wydanie-Ofertyzacja/NAZWA_PLIKU.png)
+![Proces ofertyzacji B2B](assets/Proces_Ofertyzacji.png)
 
 **[Zobacz szczegóły i wszystkie diagramy →](./BPMNProcess-Przyj%C4%99cie-Wydanie-Ofertyzacja)**
 
